@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ApiApp1.Controllers.FishCatchController",
+    "Method": "GetAll",
+    "RelativePath": "api/FishCatch",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
